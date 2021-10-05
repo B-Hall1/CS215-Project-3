@@ -1,0 +1,20 @@
+WIN_ROOM: 1
+WIN_ITEM: pencil
+WIN_TEXT: You win the game!
+ROOM: Classroom
+You are in an old classroom, with walls of cinderblock and peeling paint. There is a doorway leading out into the hallway.
+ROOM_ITEM: false desk
+It is an old wooden desk. You think it would crash to the floor if Joiner sat in it.
+ROOM_ITEM: false chalk board
+It is a dusty old chalk board. A message says TAKE THE PENCIL AND DROP IT IN THE HALL BY THE GARBAGE CAN!
+ROOM_ITEM: true pencil
+It is a common yellow lead pencil with a red rubber eraser on the end.
+EXIT: 1 south
+ROOM: Hallway
+You are in a hallway in an old classroom building. Piles of junk block your way except into a class room to the north.
+ROOM_ITEM: false garbage can
+It is an old, beat up, metal garbage can full of wood.
+ROOM_ITEM: false junk
+Junk is piled up all around you in every direction except north.
+EXIT: 0 north
+END:
